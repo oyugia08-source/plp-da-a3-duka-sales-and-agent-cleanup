@@ -1,0 +1,143 @@
+order_id,order_date,branch,channel,product,unit_price,quantity,revenue,month,weekday,is_weekend,price_band
+ORD0001,2026-03-15,Nairobi,Online,Laptop,65147,1,65147,March,Sunday,True,Premium
+ORD0008,2026-06-24,Mombasa,Online,Laptop,66532,4,266128,June,Wednesday,False,Premium
+ORD0009,2026-06-14,Nairobi,Online,Smart TV,47954,3,143862,June,Sunday,True,Premium
+ORD0048,2026-01-29,Mombasa,Online,Laptop,65921,3,197763,January,Thursday,False,Premium
+ORD0050,2026-05-03,Nairobi,Online,Smartphone,29884,4,119536,May,Sunday,True,Premium
+ORD0051,2026-05-02,Mombasa,Online,Smart TV,40072,1,40072,May,Saturday,True,Premium
+ORD0054,2026-01-07,Nairobi,Online,Smartphone,39283,2,78566,January,Wednesday,False,Premium
+ORD0057,2026-01-22,Nairobi,Online,Smartphone,39574,4,158296,January,Thursday,False,Premium
+ORD0062,2026-05-16,Nairobi,Online,Smartphone,30457,2,60914,May,Saturday,True,Premium
+ORD0073,2026-06-10,Nairobi,Online,Smart TV,62889,3,188667,June,Wednesday,False,Premium
+ORD0076,2026-05-02,Nairobi,Online,Smart TV,36881,2,73762,May,Saturday,True,Premium
+ORD0085,2026-03-28,Mombasa,Online,Laptop,57375,4,229500,March,Saturday,True,Premium
+ORD0097,2026-06-12,Mombasa,Online,Smartphone,44235,2,88470,June,Friday,False,Premium
+ORD0100,2026-06-02,Nairobi,Online,Smart TV,61516,1,61516,June,Tuesday,False,Premium
+ORD0109,2026-01-06,Mombasa,Online,Smart TV,42092,2,84184,January,Tuesday,False,Premium
+ORD0115,2026-05-21,Nairobi,Online,Smartphone,36541,1,36541,May,Thursday,False,Premium
+ORD0127,2026-02-15,Mombasa,Online,Smart TV,54501,1,54501,February,Sunday,True,Premium
+ORD0133,2026-02-05,Mombasa,Online,Smart TV,59571,1,59571,February,Thursday,False,Premium
+ORD0136,2026-05-03,Mombasa,Online,Smart TV,34344,1,34344,May,Sunday,True,Premium
+ORD0144,2026-01-02,Nairobi,Online,Smartphone,44185,4,176740,January,Friday,False,Premium
+ORD0148,2026-01-28,Mombasa,Online,Smartphone,43605,2,87210,January,Wednesday,False,Premium
+ORD0155,2026-04-12,Mombasa,Online,Smart TV,37690,1,37690,April,Sunday,True,Premium
+ORD0163,2026-01-31,Nairobi,Online,Smartphone,38120,4,152480,January,Saturday,True,Premium
+ORD0169,2026-05-09,Nairobi,Online,Laptop,58134,3,174402,May,Saturday,True,Premium
+ORD0171,2026-06-18,Nairobi,Online,Laptop,69624,1,69624,June,Thursday,False,Premium
+ORD0173,2026-06-15,Mombasa,Online,Smartphone,41717,3,125151,June,Monday,False,Premium
+ORD0178,2026-01-27,Nairobi,Online,Laptop,58265,2,116530,January,Tuesday,False,Premium
+ORD0190,2026-01-20,Nairobi,Online,Smartphone,28199,4,112796,January,Tuesday,False,Premium
+ORD0192,2026-06-28,Nairobi,Online,Smartphone,31547,3,94641,June,Sunday,True,Premium
+ORD0193,2026-05-31,Nairobi,Online,Smartphone,33580,3,100740,May,Sunday,True,Premium
+ORD0202,2026-03-09,Nairobi,Online,Smart TV,49745,4,198980,March,Monday,False,Premium
+ORD0203,2026-05-20,Nairobi,Online,Laptop,55601,1,55601,May,Wednesday,False,Premium
+ORD0206,2026-01-02,Mombasa,Online,Smart TV,43197,1,43197,January,Friday,False,Premium
+ORD0212,2026-04-14,Nairobi,Online,Smartphone,39387,3,118161,April,Tuesday,False,Premium
+ORD0224,2026-04-17,Nairobi,Online,Smartphone,45101,3,135303,April,Friday,False,Premium
+ORD0231,2026-06-08,Nairobi,Online,Laptop,73817,3,221451,June,Monday,False,Premium
+ORD0236,2026-03-08,Nairobi,Online,Smartphone,34290,4,137160,March,Sunday,True,Premium
+ORD0239,2026-05-24,Nairobi,Online,Smartphone,45712,3,137136,May,Sunday,True,Premium
+ORD0241,2026-02-04,Mombasa,Online,Smart TV,62958,2,125916,February,Wednesday,False,Premium
+ORD0246,2026-05-31,Nairobi,Online,Laptop,73440,1,73440,May,Sunday,True,Premium
+ORD0250,2026-03-25,Nairobi,Online,Smartphone,29608,4,118432,March,Wednesday,False,Premium
+ORD0256,2026-05-12,Nairobi,Online,Smart TV,62504,3,187512,May,Tuesday,False,Premium
+ORD0260,2026-01-31,Mombasa,Online,Smartphone,35792,4,143168,January,Saturday,True,Premium
+ORD0265,2026-06-19,Mombasa,Online,Smart TV,60548,2,121096,June,Friday,False,Premium
+ORD0280,2026-01-25,Nairobi,Online,Smartphone,31287,4,125148,January,Sunday,True,Premium
+ORD0292,2026-06-11,Mombasa,Online,Smartphone,40779,4,163116,June,Thursday,False,Premium
+ORD0302,2026-04-14,Nairobi,Online,Smartphone,34859,1,34859,April,Tuesday,False,Premium
+ORD0306,2026-02-08,Nairobi,Online,Smartphone,40775,3,122325,February,Sunday,True,Premium
+ORD0311,2026-05-28,Nairobi,Online,Laptop,68914,2,137828,May,Thursday,False,Premium
+ORD0313,2026-05-16,Nairobi,Online,Smartphone,43665,1,43665,May,Saturday,True,Premium
+ORD0320,2026-05-29,Mombasa,Online,Laptop,64070,1,64070,May,Friday,False,Premium
+ORD0336,2026-01-16,Nairobi,Online,Smartphone,46497,1,46497,January,Friday,False,Premium
+ORD0344,2026-05-17,Nairobi,Online,Smart TV,52948,3,158844,May,Sunday,True,Premium
+ORD0352,2026-03-22,Nairobi,Online,Smart TV,38973,2,77946,March,Sunday,True,Premium
+ORD0366,2026-02-12,Mombasa,Online,Smartphone,33691,4,134764,February,Thursday,False,Premium
+ORD0368,2026-01-27,Nairobi,Online,Laptop,65467,2,130934,January,Tuesday,False,Premium
+ORD0379,2026-03-01,Nairobi,Online,Smartphone,33376,3,100128,March,Sunday,True,Premium
+ORD0392,2026-06-01,Nairobi,Online,Smartphone,43059,2,86118,June,Monday,False,Premium
+ORD0404,2026-04-21,Nairobi,Online,Laptop,64199,2,128398,April,Tuesday,False,Premium
+ORD0407,2026-02-14,Nairobi,Online,Smartphone,46832,2,93664,February,Saturday,True,Premium
+ORD0408,2026-01-13,Nairobi,Online,Smart TV,53926,1,53926,January,Tuesday,False,Premium
+ORD0411,2026-04-29,Nairobi,Online,Laptop,55402,4,221608,April,Wednesday,False,Premium
+ORD0414,2026-04-15,Nairobi,Online,Smart TV,32422,3,97266,April,Wednesday,False,Premium
+ORD0419,2026-06-18,Mombasa,Online,Laptop,71472,2,142944,June,Thursday,False,Premium
+ORD0425,2026-01-31,Nairobi,Online,Smartphone,32020,3,96060,January,Saturday,True,Premium
+ORD0428,2026-01-26,Mombasa,Online,Laptop,56396,1,56396,January,Monday,False,Premium
+ORD0435,2026-02-15,Nairobi,Online,Laptop,69774,1,69774,February,Sunday,True,Premium
+ORD0438,2026-03-22,Mombasa,Online,Smartphone,45255,1,45255,March,Sunday,True,Premium
+ORD0439,2026-03-06,Nairobi,Online,Smartphone,32154,2,64308,March,Friday,False,Premium
+ORD0444,2026-01-15,Mombasa,Online,Smartphone,43945,3,131835,January,Thursday,False,Premium
+ORD0452,2026-06-17,Nairobi,Online,Laptop,66202,3,198606,June,Wednesday,False,Premium
+ORD0483,2026-03-03,Nairobi,Online,Laptop,58013,2,116026,March,Tuesday,False,Premium
+ORD0487,2026-04-20,Mombasa,Online,Laptop,58077,2,116154,April,Monday,False,Premium
+ORD0490,2026-06-16,Nairobi,Online,Laptop,73290,1,73290,June,Tuesday,False,Premium
+ORD0491,2026-03-17,Nairobi,Online,Smart TV,61565,4,246260,March,Tuesday,False,Premium
+ORD0492,2026-02-28,Nairobi,Online,Smartphone,45508,4,182032,February,Saturday,True,Premium
+ORD0499,2026-04-12,Mombasa,Online,Laptop,65394,2,130788,April,Sunday,True,Premium
+ORD0502,2026-04-21,Mombasa,Online,Smartphone,37450,1,37450,April,Tuesday,False,Premium
+ORD0504,2026-02-28,Nairobi,Online,Smartphone,28494,4,113976,February,Saturday,True,Premium
+ORD0515,2026-04-16,Mombasa,Online,Smartphone,39526,2,79052,April,Thursday,False,Premium
+ORD0517,2026-02-07,Mombasa,Online,Smartphone,45549,2,91098,February,Saturday,True,Premium
+ORD0553,2026-04-19,Mombasa,Online,Smartphone,28197,3,84591,April,Sunday,True,Premium
+ORD0576,2026-02-20,Mombasa,Online,Smartphone,30208,3,90624,February,Friday,False,Premium
+ORD0579,2026-02-13,Mombasa,Online,Laptop,62470,4,249880,February,Friday,False,Premium
+ORD0581,2026-03-31,Nairobi,Online,Smart TV,34154,2,68308,March,Tuesday,False,Premium
+ORD0594,2026-06-01,Nairobi,Online,Laptop,59555,4,238220,June,Monday,False,Premium
+ORD0595,2026-02-14,Mombasa,Online,Laptop,74838,4,299352,February,Saturday,True,Premium
+ORD0606,2026-04-19,Mombasa,Online,Smartphone,46126,4,184504,April,Sunday,True,Premium
+ORD0609,2026-03-26,Nairobi,Online,Smart TV,54075,1,54075,March,Thursday,False,Premium
+ORD0610,2026-03-12,Nairobi,Online,Smart TV,64463,2,128926,March,Thursday,False,Premium
+ORD0620,2026-03-16,Nairobi,Online,Laptop,61255,1,61255,March,Monday,False,Premium
+ORD0624,2026-04-09,Nairobi,Online,Smartphone,47894,3,143682,April,Thursday,False,Premium
+ORD0632,2026-06-30,Nairobi,Online,Smart TV,59884,4,239536,June,Tuesday,False,Premium
+ORD0642,2026-05-07,Mombasa,Online,Smartphone,32300,3,96900,May,Thursday,False,Premium
+ORD0644,2026-01-14,Mombasa,Online,Laptop,73208,2,146416,January,Wednesday,False,Premium
+ORD0675,2026-04-17,Mombasa,Online,Smartphone,38055,4,152220,April,Friday,False,Premium
+ORD0679,2026-06-13,Nairobi,Online,Laptop,71055,4,284220,June,Saturday,True,Premium
+ORD0683,2026-06-26,Nairobi,Online,Smart TV,54954,3,164862,June,Friday,False,Premium
+ORD0692,2026-03-17,Nairobi,Online,Smart TV,49148,4,196592,March,Tuesday,False,Premium
+ORD0700,2026-01-20,Nairobi,Online,Smart TV,42569,3,127707,January,Tuesday,False,Premium
+ORD0751,2026-06-01,Nairobi,Online,Smart TV,44141,2,88282,June,Monday,False,Premium
+ORD0754,2026-03-02,Nairobi,Online,Smartphone,39439,2,78878,March,Monday,False,Premium
+ORD0766,2026-04-19,Nairobi,Online,Smartphone,45898,3,137694,April,Sunday,True,Premium
+ORD0769,2026-04-29,Mombasa,Online,Laptop,67777,4,271108,April,Wednesday,False,Premium
+ORD0773,2026-05-07,Nairobi,Online,Smart TV,32316,3,96948,May,Thursday,False,Premium
+ORD0775,2026-05-31,Nairobi,Online,Smartphone,33711,4,134844,May,Sunday,True,Premium
+ORD0782,2026-05-30,Nairobi,Online,Smart TV,35816,3,107448,May,Saturday,True,Premium
+ORD0790,2026-05-07,Nairobi,Online,Smartphone,45225,4,180900,May,Thursday,False,Premium
+ORD0791,2026-06-17,Nairobi,Online,Laptop,68687,4,274748,June,Wednesday,False,Premium
+ORD0802,2026-04-11,Nairobi,Online,Smart TV,54180,3,162540,April,Saturday,True,Premium
+ORD0807,2026-06-24,Nairobi,Online,Smart TV,41363,3,124089,June,Wednesday,False,Premium
+ORD0826,2026-04-05,Mombasa,Online,Smart TV,33790,3,101370,April,Sunday,True,Premium
+ORD0828,2026-02-07,Nairobi,Online,Smart TV,47276,4,189104,February,Saturday,True,Premium
+ORD0832,2026-05-03,Mombasa,Online,Smartphone,28571,4,114284,May,Sunday,True,Premium
+ORD0834,2026-03-21,Nairobi,Online,Laptop,64149,1,64149,March,Saturday,True,Premium
+ORD0838,2026-04-25,Mombasa,Online,Laptop,72248,2,144496,April,Saturday,True,Premium
+ORD0844,2026-01-22,Mombasa,Online,Laptop,64409,3,193227,January,Thursday,False,Premium
+ORD0850,2026-01-26,Nairobi,Online,Laptop,65143,3,195429,January,Monday,False,Premium
+ORD0862,2026-02-17,Nairobi,Online,Smart TV,33013,1,33013,February,Tuesday,False,Premium
+ORD0866,2026-01-19,Nairobi,Online,Laptop,68152,3,204456,January,Monday,False,Premium
+ORD0872,2026-04-26,Nairobi,Online,Smart TV,35887,2,71774,April,Sunday,True,Premium
+ORD0873,2026-03-29,Mombasa,Online,Smart TV,46491,1,46491,March,Sunday,True,Premium
+ORD0877,2026-04-21,Nairobi,Online,Laptop,74724,2,149448,April,Tuesday,False,Premium
+ORD0881,2026-02-16,Mombasa,Online,Smartphone,32807,3,98421,February,Monday,False,Premium
+ORD0882,2026-02-05,Nairobi,Online,Smart TV,33457,2,66914,February,Thursday,False,Premium
+ORD0888,2026-03-28,Mombasa,Online,Smartphone,45614,4,182456,March,Saturday,True,Premium
+ORD0890,2026-02-17,Nairobi,Online,Smartphone,39813,2,79626,February,Tuesday,False,Premium
+ORD0891,2026-01-13,Nairobi,Online,Smartphone,37162,2,74324,January,Tuesday,False,Premium
+ORD0892,2026-03-24,Nairobi,Online,Smart TV,53074,3,159222,March,Tuesday,False,Premium
+ORD0899,2026-04-16,Mombasa,Online,Smart TV,39392,2,78784,April,Thursday,False,Premium
+ORD0904,2026-04-06,Nairobi,Online,Smartphone,40781,4,163124,April,Monday,False,Premium
+ORD0919,2026-03-07,Mombasa,Online,Smart TV,40875,1,40875,March,Saturday,True,Premium
+ORD0932,2026-02-19,Nairobi,Online,Smart TV,35417,3,106251,February,Thursday,False,Premium
+ORD0941,2026-04-29,Mombasa,Online,Smart TV,57639,1,57639,April,Wednesday,False,Premium
+ORD0945,2026-05-23,Nairobi,Online,Laptop,74349,3,223047,May,Saturday,True,Premium
+ORD0946,2026-03-08,Nairobi,Online,Laptop,59324,1,59324,March,Sunday,True,Premium
+ORD0963,2026-02-11,Mombasa,Online,Laptop,65348,1,65348,February,Wednesday,False,Premium
+ORD0966,2026-03-30,Nairobi,Online,Smart TV,60011,2,120022,March,Monday,False,Premium
+ORD0967,2026-05-28,Nairobi,Online,Smartphone,33913,3,101739,May,Thursday,False,Premium
+ORD0985,2026-02-12,Mombasa,Online,Smartphone,35871,1,35871,February,Thursday,False,Premium
+ORD0996,2026-06-23,Mombasa,Online,Smart TV,44770,2,89540,June,Tuesday,False,Premium
+ORD1000,2026-05-01,Mombasa,Online,Smartphone,43173,4,172692,May,Friday,False,Premium
